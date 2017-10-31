@@ -1,0 +1,266 @@
+/*
+
+Template Color CSS File
+
+Color code: #f2d438
+
+Author: İbrahim ÖZER
+Template Name: Infinite
+Version: 3.4
+*/
+
+#infinity-outline {
+    stroke: #f2d438;
+}
+
+/*a tag*/
+a:hover {
+    color: #f2d438;
+}
+
+a:focus, a:active {
+    color: #f2d438;
+}
+
+/*navigation*/
+.navbar-toggle {
+    background-color: #f2d438 !important;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #f2d438 !important;
+}
+
+/*button color style*/
+.btn-action {
+    background-color: #f2d438;
+    border-color: #f2d438;
+}
+
+.btn-action {
+    background-color: #f2d438;
+    border-color: #f2d438;
+}
+
+.btn-action:hover {
+    background-color: #e7b222 !important;
+    border-color: #e7b222 !important;
+}
+
+.btn-action:focus {
+    background-color: #e7b222 !important;
+    border-color: #e7b222 !important;
+}
+
+.btn-action:active {
+    background-color: #e7b222 !important;
+    border-color: #e7b222 !important;
+}
+
+.btn-error-back {
+    background-color: #f2d438 !important;
+    border-color: #f2d438 !important;
+}
+
+::selection {
+    background: rgba(242, 212, 56, .8) !important; /* WebKit/Blink Browsers */
+    color: #fff;
+}
+
+::-moz-selection {
+    background: rgba(242, 212, 56, .8) !important; /* Gecko Browsers */
+    color: #fff;
+}
+
+.text-category {
+    color: #f2d438;
+}
+
+/*navbar color style*/
+.navbar-inverse .navbar-nav .active a::after {
+    background-color: #f2d438;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #f2d438;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+    color: #f2d438 !important;
+    background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+    background-color: transparent;
+    color: #f2d438;
+}
+
+.navbar-inverse .navbar-nav .dropdown-menu > li:hover > a,
+.navbar-inverse .navbar-nav .dropdown-menu > li:focus > a,
+.navbar-inverse .navbar-nav .dropdown-menu > li.active > a {
+    color: #f2d438;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: #f2d438;
+}
+
+.home-slider-item .item-info .label-slider-category {
+    background-color: #f2d438;
+}
+
+.label-post-category label {
+    background-color: #f2d438;
+}
+
+.read-more {
+    color: #f2d438;
+}
+
+.widget-title {
+    border-color: #f2d438;
+}
+
+.ramdom-post-slider .item-info .label-slider-category {
+    background-color: #f2d438;
+}
+
+.w-tag-list li a:hover {
+    background-color: #f2d438;
+}
+
+.page-breadcrumb .breadcrumb .breadcrumb-item a {
+    color: #f2d438;
+}
+
+.post-content .post-meta a:hover {
+    color: #f2d438;
+}
+
+.post-content .post-tags .tag-list li a:hover {
+    border-color: #f2d438;
+    background-color: #f2d438;
+}
+
+.related-posts .related-post-title {
+    border-bottom: 2px solid #f2d438;
+}
+
+.comments .comments-title {
+    border-bottom: 2px solid #f2d438;
+}
+
+.comment-lists li .btn-comment-reply {
+    color: #f2d438;
+}
+
+.comment-loader-container .loader {
+    border-top: 5px solid #f2d438;
+}
+
+.sub-comment-loader-container .loader {
+    border-top: 5px solid #f2d438;
+}
+
+.pagination .active a {
+    border: 1px solid #f2d438 !important;
+    background-color: #f2d438 !important;
+    color: #fff !important;
+}
+
+.f-random-list li .title a:hover {
+    color: #f2d438;
+}
+
+.newsletter button {
+    background: #f2d438;
+}
+
+.random-post-slider .item-info .label-slider-category {
+    background-color: #f2d438;
+}
+
+.random-post-slider .owl-prev:hover .random-arrow-prev {
+    color: #f2d438;
+}
+
+.random-post-slider .owl-next:hover .random-arrow-next {
+    color: #f2d438;
+}
+
+.post-detail-slider .owl-prev:hover .post-detail-arrow-prev {
+    color: #f2d438;
+}
+
+.post-detail-slider .owl-next:hover .post-detail-arrow-next {
+    color: #f2d438;
+}
+
+.leave-reply .form-control:focus {
+    border-color: #f2d438;
+}
+
+.page-contact .form-control:focus {
+    border-color: #f2d438;
+}
+
+.link-forget {
+    color: #f2d438;
+}
+
+.filters .btn:hover {
+    background-color: #f2d438 !important;
+    border-color: #f2d438 !important;
+    color: #fff !important;
+}
+
+.filters .active {
+    background-color: #f2d438 !important;
+    border-color: #f2d438 !important;
+    color: #fff !important;
+}
+
+.captcha-refresh {
+    color: #f2d438;
+}
+
+.gallery-categories ul li a:hover, .gallery-categories ul li a:focus, .gallery-categories ul li a:active {
+    background-color: #f2d438 !important;
+    border-color: #f2d438 !important;
+    color: #fff !important;
+}
+
+.newsletter .newsletter-button {
+    background-color: #f2d438;
+    border: 1px solid #f2d438;
+}
+
+.newsletter .newsletter-button:hover {
+    background-color: #e7b222;
+    border: 1px solid #e7b222;
+}
+.switcher-box .open-switcher {
+    background-color: #f2d438;
+}
+.nav-footer li a:hover {
+    color: #f2d438;
+}
+@media (max-width: 768px) {
+
+    .pagination .page-previous a {
+        border: 1px solid #f2d438 !important;
+        color: #f2d438 !important;
+        background-color: transparent !important;
+    }
+
+    .pagination .page-next a {
+        border: 1px solid #f2d438 !important;
+        color: #f2d438 !important;
+        background-color: transparent !important;
+    }
+}

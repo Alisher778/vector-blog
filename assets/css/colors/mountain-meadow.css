@@ -1,0 +1,252 @@
+/*
+
+Template Color CSS File
+
+Color code: #16a085
+
+Author: İbrahim ÖZER
+Template Name: Infinite
+Version: 3.4
+*/
+
+
+
+#infinity-outline {
+    stroke: #16a085;
+}
+
+/*a tag*/
+a:hover {
+    color: #16a085;
+}
+
+a:focus, a:active {
+    color: #16a085;
+}
+
+/*navigation*/
+.navbar-toggle {
+    background-color: #16a085 !important;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #16a085 !important;
+}
+
+/*button color style*/
+.btn-action {
+    background-color: #16a085;
+    border-color: #16a085;
+}
+
+.btn-action {
+    background-color: #16a085;
+    border-color: #16a085;
+}
+
+.btn-action:hover {
+    background-color: #138f77 !important;
+    border-color: #138f77 !important;
+}
+
+.btn-action:focus {
+    background-color: #138f77 !important;
+    border-color: #138f77 !important;
+}
+
+.btn-action:active {
+    background-color: #138f77 !important;
+    border-color: #138f77 !important;
+}
+.btn-error-back{
+    background-color: #16a085 !important;
+    border-color: #16a085 !important;
+}
+
+::selection {
+    background: rgba(22, 160, 133, .8) !important; /* WebKit/Blink Browsers */
+    color: #fff;
+}
+
+::-moz-selection {
+    background: rgba(22, 160, 133, .8) !important; /* WebKit/Blink Browsers */
+    color: #fff;
+}
+
+.text-category {
+    color: #16a085;
+}
+
+/*navbar color style*/
+.navbar-inverse .navbar-nav .active a::after {
+    background-color: #16a085;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #16a085;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+    color: #16a085 !important;
+    background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+    background-color: transparent;
+    color: #16a085;
+}
+
+.navbar-inverse .navbar-nav .dropdown-menu > li:hover > a,
+.navbar-inverse .navbar-nav .dropdown-menu > li:focus > a,
+.navbar-inverse .navbar-nav .dropdown-menu > li.active > a {
+    color: #16a085;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: #16a085;
+}
+
+.home-slider-item .item-info .label-slider-category {
+    background-color: #16a085;
+}
+
+.label-post-category label {
+    background-color: #16a085;
+}
+
+.read-more {
+    color: #16a085;
+}
+
+.widget-title {
+    border-color: #16a085;
+}
+
+.ramdom-post-slider .item-info .label-slider-category {
+    background-color: #16a085;
+}
+
+.w-tag-list li a:hover {
+    background-color: #16a085;
+}
+
+.page-breadcrumb .breadcrumb .breadcrumb-item a {
+    color: #16a085;
+}
+
+.post-content .post-meta a:hover {
+    color: #16a085;
+}
+
+.post-content .post-tags .tag-list li a:hover {
+    border-color: #16a085;
+    background-color: #16a085;
+}
+
+.related-posts .related-post-title {
+    border-bottom: 2px solid #16a085;
+}
+
+.comments .comments-title {
+    border-bottom: 2px solid #16a085;
+}
+
+.comment-lists li .btn-comment-reply {
+    color: #16a085;
+}
+
+.comment-loader-container .loader {
+    border-top: 5px solid #16a085;
+}
+
+.sub-comment-loader-container .loader {
+    border-top: 5px solid #16a085;
+}
+
+.pagination .active a {
+    border: 1px solid #16a085 !important;
+    background-color: #16a085 !important;
+    color: #fff !important;
+}
+
+.f-random-list li .title a:hover {
+    color: #16a085;
+}
+
+.newsletter button {
+    background: #16a085;
+}
+.random-post-slider .item-info .label-slider-category {
+    background-color:#16a085;
+}
+.random-post-slider .owl-prev:hover .random-arrow-prev{
+    color: #16a085;
+}
+.random-post-slider .owl-next:hover .random-arrow-next{
+    color: #16a085;
+}
+.post-detail-slider .owl-prev:hover .post-detail-arrow-prev{
+    color: #16a085;
+}
+.post-detail-slider .owl-next:hover .post-detail-arrow-next{
+    color: #16a085;
+}
+.leave-reply .form-control:focus {
+    border-color: #16a085;
+}
+.page-contact .form-control:focus {
+    border-color: #16a085;
+}
+.link-forget{
+    color: #16a085;
+}
+.filters .btn:hover{
+    background-color: #16a085 !important;
+    border-color: #16a085 !important;
+    color: #fff !important;
+}
+.filters .active{
+    background-color: #16a085 !important;
+    border-color: #16a085 !important;
+    color: #fff !important;
+}
+.captcha-refresh{
+    color: #16a085;
+}
+.gallery-categories ul li a:hover, .gallery-categories ul li a:focus, .gallery-categories ul li a:active{
+    background-color: #16a085 !important;
+    border-color: #16a085 !important;
+    color: #fff !important;
+}
+.newsletter .newsletter-button {
+    background-color: #16a085;
+    border: 1px solid #16a085;
+}
+.newsletter .newsletter-button:hover {
+    background-color: #138f77;
+    border: 1px solid #138f77;
+}
+.switcher-box .open-switcher {
+    background-color: #16a085;
+}
+.nav-footer li a:hover {
+    color: #16a085;
+}
+@media (max-width: 768px) {
+
+    .pagination .page-previous a {
+        border: 1px solid #16a085 !important;
+        color: #16a085 !important;
+        background-color: transparent !important;
+    }
+
+    .pagination .page-next a {
+        border: 1px solid #16a085 !important;
+        color: #16a085 !important;
+        background-color: transparent !important;
+    }
+}

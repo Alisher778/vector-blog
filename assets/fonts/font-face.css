@@ -1,0 +1,41 @@
+/*============Montserrat font face==========*/
+
+/* Light */
+@font-face {
+    font-family: 'Montserrat';
+    src: url("Montserrat-Light.ttf");
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Regular */
+@font-face {
+    font-family: 'Montserrat';
+    src: url("Montserrat-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Medium */
+@font-face {
+    font-family: 'Montserrat';
+    src: url("Montserrat-Medium.ttf");
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* SemiBold */
+@font-face {
+    font-family: 'Montserrat';
+    src: url("Montserrat-SemiBold.ttf");
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'Montserrat';
+    src: url("Montserrat-Bold.ttf");
+    font-weight: 700;
+    font-style: normal;
+}
